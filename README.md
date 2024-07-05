@@ -15,6 +15,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Also Connect with MySQL server to connect with the database
 
 • Integrated a real-time calendar feature that allows users to manage their schedules efficiently by viewing and organizing their hosting and attending events within a single interface, ensuring seamless event management.
 
