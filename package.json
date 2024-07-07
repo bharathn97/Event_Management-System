@@ -16,10 +16,12 @@
     "mysql2": "^3.9.2",
     "next": "14.0.4",
     "prisma": "^5.10.2",
+    "razorpay": "^2.8.5",
     "react": "^18",
     "react-big-calendar": "^1.11.2",
     "react-dom": "^18",
-    "react-toastify": "^10.0.4"
+    "react-toastify": "^10.0.4",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
