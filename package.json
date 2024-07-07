@@ -23,7 +23,7 @@
     "react-toastify": "^10.0.4",
     "shortid": "^2.2.16",
     "jsonwebtoken": "^8.5.1",
-    "nodemailer": "^6.10.1"
+    "nodemailer": "^6.9.8"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
