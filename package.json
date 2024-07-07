@@ -22,7 +22,7 @@
     "react-dom": "^18",
     "react-toastify": "^10.0.4",
     "shortid": "^2.2.16",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "nodemailer": "^6.9.8"
   },
   "devDependencies": {
