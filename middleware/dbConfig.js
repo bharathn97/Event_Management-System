@@ -10,7 +10,7 @@ const dbConfig = {
   options: {
     encrypt: true, 
     ssl: {
-      ca: fs.readFileSync(path.join(__dirname, 'ca.pem')) 
+      ca: Buffer.from(process.env.CA_CERT, 'base64').toString('utf-8')
     },
   },
 };
