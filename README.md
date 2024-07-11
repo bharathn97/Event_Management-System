@@ -11,9 +11,9 @@ https://visionary-cheesecake-60ea59.netlify.app
 
 ## Additional Details
 
-->Deployment: The web application is deployed using Netlify, ensuring scalability and reliability.
+• Deployment: The web application is deployed using Netlify, ensuring scalability and reliability.
 
-->Database Storage: Utilizes Aiven Cloud for MySQL to securely store and manage data, providing robust data storage solutions.
+• Database Storage: Utilizes Aiven Cloud for MySQL to securely store and manage data, providing robust data storage solutions.
 
 ## Getting Started
 
