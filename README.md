@@ -7,7 +7,7 @@ and efficient payment process.
 
 ## Live Site HERE!!!!!- 
 
-[https://visionary-cheesecake-60ea59.netlify.app](https://event-management-next.netlify.app)
+https://event-management-next.netlify.app
 
 
 ## Additional Details
