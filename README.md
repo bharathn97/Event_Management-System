@@ -1,5 +1,13 @@
 ## Event Management System where users (hosts) can create events, set seating arrangements, and manage event details
 
+• Integrated a real-time calendar feature that allows users to manage their schedules efficiently by viewing and organizing their hosting and attending events within a single interface, ensuring seamless event management.
+
+• Implemented a payment gateway using RazorPay, enabling users to securely enroll in events with an intuitive
+and efficient payment process.
+
+## Live Site HERE!!!!!- 
+https://visionary-cheesecake-60ea59.netlify.app
+
 ## Getting Started
 
 First, run the development server:
@@ -17,10 +25,6 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 Also Connect with MySQL server to connect with the database
 
-• Integrated a real-time calendar feature that allows users to manage their schedules efficiently by viewing and organizing their hosting and attending events within a single interface, ensuring seamless event management.
-
-• Implemented a payment gateway using RazorPay, enabling users to securely enroll in events with an intuitive
-and efficient payment process.
 
 ## Learn More
 
