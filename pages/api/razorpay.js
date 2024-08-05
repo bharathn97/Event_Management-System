@@ -7,8 +7,8 @@ export default async function handler(req, res) {
   if (req.method === "POST") {
     // Initialize razorpay object
     const razorpay = new Razorpay({
-      key_id: "rzp_test_nVaSW2cxt1Jb0m",
-      key_secret: "k3ib6MNVkP7huNb3GlM0ZZzO",
+      key_id: "SECRET_ID",
+      key_secret: "SECRET_KEY",
     });
     const payment_capture = 1;
     const amount = taxAmt;
